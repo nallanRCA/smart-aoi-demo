@@ -81,4 +81,4 @@ This project is intended to demonstrate the **concept and workflow** of Smart AO
 
 ## 👤 Author
 
-George Konia
+Nallan Anbanandam                    
