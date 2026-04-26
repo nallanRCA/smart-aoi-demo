@@ -25,6 +25,14 @@ Smart AOI:
 * ⏭ Navigate defects (Next / Prev)
 
 ---
+## 🔷 Broader Application
+
+This concept is not limited to AOI.
+
+The same approach can be applied in any process where a reference sample (golden sample) is used for comparison.
+
+By separating detection from intelligent filtering, it becomes possible to reduce noise and focus only on meaningful differences across various inspection or validation steps.
+
 
 ## 🎯 Demo Focus
 
@@ -50,7 +58,7 @@ This repository focuses on:
 ## 📸 Screenshots
 
 (Add your images in `/screenshots`)
-
+                          
 ---
 
 ## 🛠 Installation
